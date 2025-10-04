@@ -13,10 +13,6 @@ I'm a passionate developer with experience in building scalable applications, ex
 - Frameworks: FastAPI
 - Tools: Git, Docker, AWS, GitHub 
 
-## 📈 GitHub Stats
-
-![Saiteja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja-bhushanam&show_icons=true&hide_title=true&count_private=true&hide=issues)
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/saiteja-bhushanam-058989199/)
